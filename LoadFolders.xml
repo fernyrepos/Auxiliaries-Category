@@ -1,0 +1,12 @@
+<loadFolders>
+  <v1.5>
+    <li>/</li>
+    <li IfModActive="dankpyon.medieval.overhaul">Mods and Shit/Medieval Overhaul</li>
+    <li IfModActive="rooboid.paintings.ex">Mods and Shit/Roo's Painting</li>
+    <li IfModActive="vanillaexpanded.vfecore">Mods and Shit/VE Furniture</li>
+    <li IfModActive="vanillaexpanded.vfemedical">Mods and Shit/VFE Medical</li>
+    <li IfModActive="oskarpotocki.vfe.medieval2">Mods and Shit/VFE Medieval 2</li>
+    <li IfModActive="vanillaexpanded.vfeproduction">Mods and Shit/VFE Production</li>
+    <li IfModActive="hobbes.bamba.evenmorelinkables">Mods and Shit/Even More Linkables</li>
+  </v1.5>
+</loadFolders>
