@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Patch>              
-<!-- CORE PATCHES -->
+<Patch>
                 <Operation Class="PatchOperationReplace">
                     <success>Always</success>
-                    <xpath>Defs/ThingDef[defName="ToolCabinet"]/designationCategory</xpath>
+                    <xpath>Defs/ThingDef[defName="VBY_PrimitiveTabletTable"]/designationCategory</xpath>
                     <value>
                         <designationCategory>Ferny_Auxiliaries</designationCategory>
                     </value>
                 </Operation>
                 <Operation Class="PatchOperationReplace">
                     <success>Always</success>
-                    <xpath>Defs/ThingDef[defName="MultiAnalyzer"]/designationCategory</xpath>
-                    <value>
-                        <designationCategory>Ferny_Auxiliaries</designationCategory>
-                    </value>
-                </Operation>
-                <Operation Class="PatchOperationReplace">
-                    <success>Always</success>
-                    <xpath>Defs/ThingDef[defName="VitalsMonitor"]/designationCategory</xpath>
+                    <xpath>Defs/ThingDef[defName="VBY_PrimitiveToolBench"]/designationCategory</xpath>
                     <value>
                         <designationCategory>Ferny_Auxiliaries</designationCategory>
                     </value>
