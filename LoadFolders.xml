@@ -9,5 +9,6 @@
     <li IfModActive="vanillaexpanded.vfeproduction">Mods and Shit/VFE Production</li>
     <li IfModActive="hobbes.bamba.evenmorelinkables">Mods and Shit/Even More Linkables</li>
     <li IfModActive="primitiveproduction.velcroboy333">Mods and Shit/Primitive Workbenches</li>
+    <li IfModActive="mos.victoriandecorations">Mods and Shit/Victorian Decorations</li>
   </v1.5>
 </loadFolders>
